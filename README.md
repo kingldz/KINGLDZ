@@ -1,5 +1,3 @@
-😎 Hola, soy Kingldz
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:32105C,100:8A2BE2&height=200&section=header&text=KINGLDZ&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20MINLYPHS&descAlignY=60&descSize=18" width="100%" />
 </p><h3 align="center">🚀 Desarrollador en constante aprendizaje</h3><p align="center">
@@ -45,7 +43,7 @@ Reproductor de música Android.
     <img src="https://img.shields.io/badge/GitHub-KINGLDZ-181717?style=for-the-badge&logo=github" />
   </a>
 </p><p align="center">
-  **MINLYPHS** · Creating something different.
+  MINLYPHS · Creating something different.
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:32105C,100:090014&height=100&section=footer" width="100%" />
 </p>
